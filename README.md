@@ -7,4 +7,7 @@ To run the program - download all the required image files and put them in the s
 
 Any curiosities to the inner workings of the program and reasons to why the program was made or what it aims to accomplish can all be satiated with the report in the github.
 
+
+If you want to make any changes to the code and modify the project into something better - feel free to do so and I will be very happy to see your creative inputs!
+
 Cheers!!
